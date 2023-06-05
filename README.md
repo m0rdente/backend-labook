@@ -8,12 +8,6 @@
 
 ---
 
-##  🕵Sobre
-
-Bem-vindo à nossa API! Com ela, você pode criar usuários, fazer login, criar, editar, deletar e dar like em postagens. As senhas são seguras com hasheamento e as autorizações são feitas através de tokens JWT. Desfrute da nossa API!
-
-
-
 ##  👩🏾Quem Faz 
 
 - Priscila Mordente de Oliveira
