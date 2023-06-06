@@ -19,7 +19,7 @@ Este projeto de Back-end tem como principal objetivo estudar e compreender a arq
 -  Criação e login de usuários
 -  Login de Usuários
 -  Criação, edição e deleção de Postagens
--  Like e dilikes nas postagens
+-  Like e dislikes nas postagens
 -  Autenticação via token JWT
 -  Senhas hasheadas com Bcrypt
 -  Identificação UUID
@@ -35,4 +35,4 @@ Este projeto de Back-end tem como principal objetivo estudar e compreender a arq
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-- Para acessar a documentação do projeto de back end, clique [aqui](https://documenter.getpostman.com/view/27038980/2s93sXcZxh).
+- Para acessar a documentação do projeto, clique [aqui](https://documenter.getpostman.com/view/27038980/2s93sXcZxh).
